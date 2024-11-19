@@ -1,53 +1,84 @@
-# TSPP - Termos de Serviço e Política de Privacidade
+### **🔒 Termos de Serviço e Política de Privacidade do Bot Rayssa**  
 
-**Última atualização: 04/10/2024**
+Bem-vindo aos Termos de Serviço e Política de Privacidade da **Rayssa**. A segurança, privacidade e experiência de nossos usuários são nossas maiores prioridades. Este documento estabelece como o bot opera, os direitos dos usuários e as responsabilidades de ambas as partes.  
 
-## 1. Aceitação dos Termos
+---
 
-Ao utilizar o bot Rayssa, você concorda em cumprir e estar sujeito a estes Termos de Serviço e à nossa Política de Privacidade. Se você não concorda com algum dos termos estabelecidos, não deve utilizar o bot.
+### **1. Coleta Responsável de Informações**  
+Coletamos apenas os dados essenciais para que o bot funcione corretamente e ofereça a melhor experiência possível. Os dados incluem:  
+- **ID do Usuário:** Para identificar interações e personalizar o uso.  
+- **Idioma do Discord:** Para adequar as respostas do bot à sua preferência linguística.  
 
-## 2. Descrição do Serviço
+Não coletamos dados sensíveis ou informações desnecessárias.  
 
-Rayssa é um bot desenvolvido para o Discord, projetado para facilitar o gerenciamento de parcerias em servidores. Oferecemos funcionalidades que incluem mensagens personalizadas, contagem de parcerias e listas negras, visando proporcionar uma experiência otimizada e eficiente para os usuários.
+---
 
-## 3. Coleta de Dados
+### **2. Criptografia e Segurança Avançada**  
+Todas as informações que trafegam entre o bot e nossos servidores utilizam **criptografia de ponta a ponta**, garantindo que seus dados estejam protegidos contra interceptações.  
 
-Para garantir a funcionalidade adequada do bot, Rayssa coleta as seguintes informações:
+Os dados armazenados são mantidos em servidores seguros, monitorados continuamente, e acessíveis apenas por pessoas autorizadas.  
 
-- **ID do usuário:** Identificador único utilizado para gerenciar interações e personalizar a experiência do usuário.
-- **Linguagem utilizada no Discord:** Configuração de idioma que permite a adaptação das comunicações dentro do bot.
+---
 
-## 4. Uso dos Dados
+### **3. Armazenamento e Retenção de Dados**  
+Os dados são mantidos enquanto o usuário estiver ativo no bot. Em caso de inatividade prolongada ou solicitação do usuário, os dados serão permanentemente removidos de nossos sistemas.  
 
-As informações coletadas são utilizadas exclusivamente para:
+Para solicitar a exclusão de informações, entre em contato conosco diretamente via suporte no Discord.  
 
-- **Identificação e personalização:** Proporcionar uma experiência personalizada e adaptada às preferências do usuário.
-- **Aprimoramento do serviço:** Analisar e melhorar continuamente as funcionalidades do bot.
+---
 
-## 5. Proteção de Dados
+### **4. Uso da Identidade e Imagem do Bot**  
+- O nome, identidade e imagem do bot **Rayssa** são protegidos e não podem ser utilizados para ações ilegais, enganosas ou que prejudiquem a reputação dos desenvolvedores.  
+- Qualquer uso comercial ou divulgação pública do bot deve ter autorização prévia.  
 
-Empregamos medidas de segurança adequadas para proteger as informações dos usuários contra acessos não autorizados, alterações ou destruição indevida. Seguimos padrões reconhecidos de segurança da informação para assegurar a confidencialidade e integridade dos dados durante todo o processo de coleta e armazenamento. É importante notar que, apesar das nossas medidas de segurança, nenhum sistema pode garantir proteção absoluta.
+---
 
-## 6. Compartilhamento de Dados
+### **5. Funcionalidades Premium e Reembolsos**  
+A **Rayssa** oferece uma versão premium por meio de um sistema de chaves (keys):  
+- Após a compra e ativação da chave premium, **não serão realizados reembolsos** devido à natureza do produto digital.  
+- A entrega das chaves premium é feita de forma automatizada via Stripe, garantindo um processo seguro e eficiente.  
 
-A Rayssa não compartilha, vende, aluga ou transfere informações pessoais a terceiros para qualquer finalidade, seja comercial ou não. Comprometemo-nos a proteger a privacidade dos nossos usuários.
+Em caso de problemas técnicos relacionados à ativação da key, nossa equipe está disponível para suporte.  
 
-## 7. Retenção de Dados
+---
 
-Os dados dos usuários são armazenados enquanto houver atividade associada à conta no bot. Em caso de inatividade prolongada ou mediante solicitação expressa do usuário, procederemos à exclusão dos dados de nossos sistemas. Para solicitar a exclusão de suas informações, entre em contato conosco.
+### **6. Uso do Bot e Regras de Conduta**  
+Para manter o ambiente saudável e seguro no Discord, os usuários devem seguir estas diretrizes:  
+- **Proibido:**  
+  - Utilizar o bot para ações ilegais, como envio de links maliciosos, phishing, ou qualquer atividade que viole as diretrizes do Discord.  
+  - Usar comandos ou recursos do bot para disseminar conteúdo prejudicial ou impróprio.  
 
-## 8. Direitos dos Usuários
+O não cumprimento dessas diretrizes pode resultar em suspensão do uso do bot sem aviso prévio.  
 
-Os usuários têm o direito de:
+---
 
-- **Acessar seus dados:** Solicitar informações sobre os dados que possuímos e como são utilizados.
-- **Retificar informações:** Pedir a correção de dados incompletos ou imprecisos.
-- **Solicitar a exclusão:** Pedir a remoção de seus dados a qualquer momento, conforme descrito na seção de retenção de dados.
+### **7. Direitos dos Usuários**  
+Os usuários têm o direito de:  
+- **Consultar seus dados:** Saber quais informações armazenamos e como elas são usadas.  
+- **Solicitar a exclusão:** Pedir a remoção completa de seus dados do sistema.  
+- **Ajustar permissões:** Limitar ou revogar o uso de certas funcionalidades do bot relacionadas a seus dados.  
 
-## 9. Alterações nos Termos e Política
+---
 
-Reservamo-nos o direito de modificar estes Termos de Serviço e a Política de Privacidade a qualquer momento. Quaisquer alterações serão publicadas nesta seção, e recomendamos que os usuários revisem periodicamente os termos para se manterem informados sobre quaisquer mudanças.
+### **8. Conformidade com Leis de Privacidade**  
+Estamos comprometidos com a conformidade às leis de privacidade, como a **LGPD** (Lei Geral de Proteção de Dados) e **GDPR** (Regulamento Geral de Proteção de Dados).  
 
-## 10. Contato
+---
 
-Caso tenha dúvidas ou preocupações sobre estes Termos de Serviço e Política de Privacidade, entre em contato conosco para obter mais informações.
+### **9. Limitação de Responsabilidade**  
+Os desenvolvedores da **Rayssa** não são responsáveis por:  
+- Danos decorrentes de mau uso do bot.  
+- Ações ilegais realizadas por usuários utilizando os recursos da Rayssa.  
+- Perdas causadas por interrupções de serviço devido a manutenções, falhas técnicas ou limitações de plataformas externas (como Discord ou Stripe).  
+
+---
+
+### **10. Alterações nos Termos**  
+Reservamo-nos o direito de atualizar este documento sem aviso prévio, conforme necessário, para atender a mudanças na legislação ou melhorar a experiência do usuário.  
+
+---
+
+### **11. Contato e Suporte**  
+Caso tenha dúvidas, preocupações ou precise de ajuda, entre em contato conosco via suporte no Discord. Estamos disponíveis para esclarecer quaisquer questões.  
+
+**Conte com a Rayssa para oferecer inovação, segurança e respeito à sua privacidade! 🔒**
