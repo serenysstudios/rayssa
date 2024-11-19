@@ -2,50 +2,54 @@
 
 Na **Rayssa**, a segurança e a privacidade dos seus dados são nossas maiores prioridades. Trabalhamos continuamente para garantir que todas as informações fornecidas pelos usuários estejam protegidas contra acessos não autorizados, usos indevidos ou qualquer forma de vazamento.  
 
-Aqui está um resumo das práticas que seguimos para proteger seus dados:  
+Aqui estão as práticas que seguimos para proteger seus dados:  
 
 ---
 
 ### **1. Coleta Responsável de Informações**  
-Coletamos apenas os dados essenciais para que o bot funcione corretamente e ofereça a melhor experiência possível. Não solicitamos informações desnecessárias ou invasivas.  
+Coletamos apenas os dados essenciais para o funcionamento do bot e para garantir uma experiência fluida e personalizada. Não solicitamos informações desnecessárias ou invasivas, e sempre agimos com total transparência.  
 
 ---
 
 ### **2. Criptografia Avançada**  
-Todos os dados sensíveis que transitam entre você e nossos servidores são protegidos com **criptografia de ponta a ponta**. Isso significa que suas informações ficam ilegíveis para terceiros, mesmo durante a transmissão.  
+Todas as informações transmitidas entre você e nossos servidores são protegidas por **criptografia de ponta a ponta**. Isso garante que seus dados permaneçam protegidos contra qualquer interceptação ou acesso não autorizado durante a transmissão.  
 
 ---
 
 ### **3. Armazenamento Seguro**  
-Utilizamos servidores confiáveis e configurados com as melhores práticas de segurança da indústria. Apenas pessoas autorizadas têm acesso ao sistema, e todas as operações são monitoradas.  
+Utilizamos servidores confiáveis, equipados com as melhores práticas de segurança, como firewalls, backups regulares e restrição de acesso a dados. Somente pessoas autorizadas têm permissão para acessar o sistema, e todas as atividades são rigorosamente monitoradas.  
 
 ---
 
 ### **4. Sem Compartilhamento Indevido**  
-Nós **não vendemos, trocamos ou compartilhamos seus dados pessoais** com terceiros. Qualquer integração com serviços externos é feita com transparência e apenas com seu consentimento.  
+Nós **não vendemos, compartilhamos ou divulgamos seus dados pessoais** a terceiros, salvo quando necessário para oferecer funcionalidades específicas e com seu consentimento explícito. Todas as integrações externas são revisadas para garantir segurança e transparência.  
 
 ---
 
 ### **5. Conformidade com Leis de Privacidade**  
-Estamos em conformidade com a **LGPD (Lei Geral de Proteção de Dados)**, garantindo que seus direitos à privacidade sejam respeitados. Caso você queira acessar, corrigir ou excluir suas informações, entre em contato conosco.  
+Estamos totalmente alinhados com a **LGPD (Lei Geral de Proteção de Dados)** e outras legislações relevantes, como o GDPR. Você tem o direito de:  
+- Solicitar acesso às informações que armazenamos.  
+- Corrigir dados incorretos ou desatualizados.  
+- Excluir seus dados, conforme permitido por lei.  
+
+Entre em contato conosco para exercer seus direitos de privacidade.  
 
 ---
 
-### **6. Monitoramento e Atualizações**  
-Nossa equipe realiza **auditorias regulares** para identificar e corrigir vulnerabilidades antes que elas se tornem um problema. Além disso, estamos sempre atualizando nossos sistemas para acompanhar as mais recentes ameaças e soluções de segurança.  
+### **6. Monitoramento Contínuo e Atualizações Regulares**  
+Nossa equipe realiza **auditorias frequentes** para identificar e corrigir possíveis vulnerabilidades antes que elas se tornem um risco. Além disso, mantemos nossos sistemas sempre atualizados, garantindo que estejam preparados para enfrentar as ameaças mais recentes.  
 
 ---
 
 ### **7. Seu Controle, Sua Escolha**  
-Damos a você total controle sobre seus dados. A qualquer momento, você pode:  
-- Solicitar a exclusão das suas informações.  
-- Consultar os dados que temos armazenados.  
-- Ajustar as permissões de uso.  
+Você tem o controle total sobre como seus dados são utilizados. A qualquer momento, você pode:  
+- Ajustar as permissões concedidas ao bot.  
+- Solicitar relatórios sobre os dados armazenados.  
+- Optar por não fornecer determinadas informações (embora isso possa limitar algumas funcionalidades).  
 
 ---
 
 **💬 Tem dúvidas ou preocupações sobre seus dados?**  
-Nossa equipe de suporte está à disposição para ajudar! Entre em contato pelo nosso servidor do Discord, [clicando aqui](https://discord.gg/jqxNwB65Zp).
-Saiba mais sobre sua privacidade nos [nossos termos](https://github.com/serenysstudios/rayssa/blob/main/TSPP_Rayssa.md).
+Nossa equipe de suporte está sempre pronta para ajudar. Entre em contato pelo nosso servidor no Discord.  
 
-Conte com a Rayssa para oferecer não só inovação, mas também segurança e respeito pela sua privacidade! 🛡️  
+Conte com a Rayssa para oferecer inovação, segurança e respeito à sua privacidade! 🔐  
